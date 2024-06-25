@@ -19,3 +19,5 @@ Este proyecto fue creado para practicar el concepto de fork en GitHub. Es parte 
 7. Revisión del pull request.
 8. Fusionar (merge) el pull request.
 9. Cerrar el pull request.
+
+# Pull request a partir de una rama
